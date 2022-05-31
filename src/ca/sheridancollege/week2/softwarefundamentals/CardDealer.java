@@ -20,6 +20,8 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         Card newObject = new Card("object1", 3);
         System.out.println(newObject.getSuit());
+        Card otherObject = new Card("otherObject1", 4);
+        
         
     }
 }
